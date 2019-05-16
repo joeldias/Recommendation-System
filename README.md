@@ -1,2 +1,2 @@
-# Receommendation-System
+# Recommendation-System
 Collaborative filtering models for recommending products to customers using the purchase data. 

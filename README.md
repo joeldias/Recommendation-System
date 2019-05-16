@@ -1,5 +1,8 @@
 # Recommendation-System
-Collaborative filtering models for recommending products to customers using the purchase data. 
+Collaborative filtering models for recommending products to customers using the purchase data.
+
+Link to Database Readme - https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/adventure-works
+Link to download database - https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks
 
 ## The tool will also be able to search for a recommendation list based on a specified user, such that:
 Input: customer ID

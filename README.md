@@ -1,7 +1,7 @@
 # Recommendation-System
 Collaborative filtering models for recommending products to customers using the purchase data.
 
-Model on GitHub adapted to Microsoft Adventure Works Database for demo purposes
+Model on GitHub adapted to Microsoft Adventure Works Database for demo purposes.
 
 Link to Database Readme - https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/adventure-works
 

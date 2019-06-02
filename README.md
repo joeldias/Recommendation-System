@@ -1,4 +1,4 @@
-# Recommendation-System
+# Recommendation System
 Collaborative filtering models for recommending products to customers using the purchase data.
 
 Model on GitHub adapted to Microsoft Adventure Works Database for demo purposes.
